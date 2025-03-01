@@ -1,0 +1,1303 @@
+[
+    {
+      "alias": "dst1",
+      "name": "Paris",
+      "clues": [
+        "Home to a famous tower finished in 1889",
+        "Called the City of Light"
+      ],
+      "funFacts": [
+        "The Louvre is the world's largest art museum.",
+        "Famous for café culture and haute cuisine."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst2",
+      "name": "New York City",
+      "clues": [
+        "Home to a green statue gifted by France in the 1800s",
+        "Nicknamed 'The Big Apple' and known for its Broadway theaters"
+      ],
+      "funFacts": [
+        "Times Square was once called Longacre Square before being renamed in 1904.",
+        "The Empire State Building has its own zip code: 10118."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst3",
+      "name": "Tokyo",
+      "clues": [
+        "Capital city with over 13 million residents",
+        "Known for high-tech, anime, and cherry blossoms"
+      ],
+      "funFacts": [
+        "It's the most populous metropolitan area in the world.",
+        "Tsukiji once was the world's largest fish market."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst4",
+      "name": "Rome",
+      "clues": [
+        "Home to the Colosseum, an ancient gladiator arena",
+        "This city has an independent country within it"
+      ],
+      "funFacts": [
+        "Rome’s Trevi Fountain collects around €3,000 in coins daily, which is donated to charity.",
+        "The Vatican City, located in Rome, is the smallest country in the world."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst5",
+      "name": "London",
+      "clues": [
+        "Home to a famous clock tower often mistaken for its bell",
+        "A city where red double-decker buses and black cabs are iconic"
+      ],
+      "funFacts": [
+        "Big Ben is actually the name of the bell inside the clock tower, not the tower itself.",
+        "The London Underground, opened in 1863, is the world’s oldest subway system."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst6",
+      "name": "Bangkok",
+      "clues": [
+        "Home to a grand palace and a reclining Buddha",
+        "Famous for its street food and floating markets"
+      ],
+      "funFacts": [
+        "Bangkok’s full ceremonial name is one of the longest city names in the world.",
+        "The city has more than 400 temples, making it a spiritual hub."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst7",
+      "name": "Dubai",
+      "clues": [
+        "Home to the tallest building in the world",
+        "Famous for luxury shopping, skyscrapers, and desert adventures"
+      ],
+      "funFacts": [
+        "The Burj Khalifa stands at an astonishing 828 meters (2,717 feet).",
+        "Dubai has an indoor ski resort inside a shopping mall."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst8",
+      "name": "Barcelona",
+      "clues": [
+        "Home to an unfinished basilica designed by Antoni Gaudí",
+        "Famous for its beaches, football team, and vibrant culture"
+      ],
+      "funFacts": [
+        "La Sagrada Familia has been under construction for over 140 years.",
+        "Barcelona banned bullfighting in 2012, despite its historical significance in Spain."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst9",
+      "name": "Istanbul",
+      "clues": [
+        "The only city that spans two continents",
+        "Famous for its grand market and historic mosques"
+      ],
+      "funFacts": [
+        "Istanbul’s Grand Bazaar has over 4,000 shops, making it one of the largest and oldest markets in the world.",
+        "Hagia Sophia has been both a church and a mosque throughout history."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst10",
+      "name": "Amsterdam",
+      "clues": [
+        "A city known for its canals and cycling culture",
+        "Home to Anne Frank’s house and the Van Gogh Museum"
+      ],
+      "funFacts": [
+        "Amsterdam has more bicycles than residents.",
+        "The city’s canals span over 100 kilometers, with more bridges than Venice."
+      ],
+      "imageLink": ""
+    },
+    {
+        "alias": "dst11",
+        "name": "Singapore",
+        "clues": [
+          "Famous for its futuristic skyline and Marina Bay Sands",
+          "Home to one of the world's best airport experiences"
+        ],
+        "funFacts": [
+          "Singapore is one of the cleanest cities in the world.",
+          "The city has a 'supertree' garden with massive artificial trees."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst12",
+        "name": "Kuala Lumpur",
+        "clues": [
+          "Home to the tallest twin towers in the world",
+          "A city famous for its mix of modern skyscrapers and colonial buildings"
+        ],
+        "funFacts": [
+          "The Petronas Towers were the tallest buildings in the world until 2004.",
+          "Kuala Lumpur means 'Muddy Confluence' in Malay."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst13",
+        "name": "Hong Kong",
+        "clues": [
+          "Famous for its Victoria Harbour and towering skyline",
+          "A city where East meets West in culture and cuisine"
+        ],
+        "funFacts": [
+          "Hong Kong has more skyscrapers than any other city in the world.",
+          "The Peak Tram has been operating since 1888."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst14",
+        "name": "Sydney",
+        "clues": [
+          "Home to a world-famous opera house with a sail-like design",
+          "Known for its stunning harbour and beaches"
+        ],
+        "funFacts": [
+          "The Sydney Opera House has over a million tiles on its roof.",
+          "Bondi Beach is one of the most famous beaches in the world."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst15",
+        "name": "Berlin",
+        "clues": [
+          "Home to a historic wall that once divided the city",
+          "Known for its vibrant art, history, and nightlife"
+        ],
+        "funFacts": [
+          "Berlin has more bridges than Venice.",
+          "The Brandenburg Gate was once a symbol of division, now unity."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst16",
+        "name": "Vienna",
+        "clues": [
+          "A city famous for classical music and imperial palaces",
+          "Once home to Mozart, Beethoven, and Sigmund Freud"
+        ],
+        "funFacts": [
+          "Vienna has been ranked the world's most livable city multiple times.",
+          "The Viennese coffee culture is recognized by UNESCO."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst17",
+        "name": "Prague",
+        "clues": [
+          "Known as the 'City of a Hundred Spires'",
+          "Famous for its medieval Old Town and historic bridge"
+        ],
+        "funFacts": [
+          "The Charles Bridge is lined with 30 baroque statues.",
+          "Prague Castle is the largest ancient castle in the world."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst18",
+        "name": "Moscow",
+        "clues": [
+          "Home to a famous square and colorful onion-domed cathedral",
+          "Capital of the world's largest country by land area"
+        ],
+        "funFacts": [
+          "The Moscow Metro stations are known for their stunning architecture.",
+          "The Kremlin has five palaces and four cathedrals inside."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst19",
+        "name": "Seoul",
+        "clues": [
+          "A city blending ancient palaces with futuristic skyscrapers",
+          "Known for its K-pop and street food scene"
+        ],
+        "funFacts": [
+          "Seoul has the world’s fastest internet speeds.",
+          "The city has over 3,700 coffee shops in the Gangnam district alone."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst20",
+        "name": "Lisbon",
+        "clues": [
+          "Capital of Portugal, known for its trams and pastel buildings",
+          "Famous for its historic yellow trams and Fado music"
+        ],
+        "funFacts": [
+          "Lisbon is one of the oldest cities in Europe, predating Rome and London.",
+          "The city's iconic Tram 28 takes visitors through its most scenic neighborhoods."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst21",
+        "name": "Athens",
+        "clues": [
+        "Home to the ancient Acropolis and Parthenon",
+        "Birthplace of democracy and Western philosophy"
+        ],
+        "funFacts": [
+        "Athens is one of the world’s oldest cities, with history dating back over 3,400 years.",
+        "The Olympic Games were revived in Athens in 1896."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst22",
+        "name": "Buenos Aires",
+        "clues": [
+        "Known as the 'Paris of South America' for its architecture",
+        "Famous for tango dancing and steak"
+        ],
+        "funFacts": [
+        "Buenos Aires has the most bookstores per capita in the world.",
+        "The city has a unique cemetery, Recoleta, where Eva Perón is buried."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst23",
+        "name": "Rio de Janeiro",
+        "clues": [
+        "Famous for its massive Christ the Redeemer statue",
+        "Known for its Copacabana and Ipanema beaches"
+        ],
+        "funFacts": [
+        "Rio’s Carnival is the biggest in the world, attracting millions each year.",
+        "The city’s name means 'River of January,' but it has no major river."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst24",
+        "name": "Cape Town",
+        "clues": [
+        "Famous for Table Mountain and Robben Island",
+        "Located at the southern tip of Africa"
+        ],
+        "funFacts": [
+        "Cape Town is home to one of the world’s most diverse floral kingdoms.",
+        "Robben Island, where Nelson Mandela was imprisoned, is a UNESCO site."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst25",
+        "name": "Cairo",
+        "clues": [
+        "Home to the Great Pyramids of Giza",
+        "One of the largest cities in Africa and the Middle East"
+        ],
+        "funFacts": [
+        "The pyramids were the tallest structures in the world for over 3,800 years.",
+        "Cairo’s Khan el-Khalili is one of the oldest markets in the world."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst26",
+        "name": "Marrakech",
+        "clues": [
+        "Known as the 'Red City' for its terracotta buildings",
+        "Famous for its bustling souks and historic palaces"
+        ],
+        "funFacts": [
+        "The Medina of Marrakech is a UNESCO World Heritage site.",
+        "Jemaa el-Fnaa square comes alive with performers and food stalls every evening."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst27",
+        "name": "Mexico City",
+        "clues": [
+        "Built on the ruins of the ancient Aztec capital, Tenochtitlán",
+        "Home to one of the largest public squares in the world"
+        ],
+        "funFacts": [
+        "Mexico City sinks about 50 cm per year due to its foundation on a former lake.",
+        "The city has more museums than any other capital in the world."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst28",
+        "name": "Toronto",
+        "clues": [
+        "Home to the CN Tower, once the world's tallest tower",
+        "A city with one of the most diverse populations in the world"
+        ],
+        "funFacts": [
+        "More than 180 languages are spoken in Toronto.",
+        "Toronto has a massive underground city called PATH, with over 30 km of walkways."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst29",
+        "name": "Dublin",
+        "clues": [
+        "Home to the famous Guinness Storehouse",
+        "Famous for its historic pubs and Trinity College"
+        ],
+        "funFacts": [
+        "Dublin’s Trinity College Library houses the Book of Kells, a 9th-century manuscript.",
+        "There are more than 750 pubs in the city."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst30",
+        "name": "Edinburgh",
+        "clues": [
+        "Home to a famous medieval castle on a volcanic rock",
+        "The city inspired J.K. Rowling to write Harry Potter"
+        ],
+        "funFacts": [
+        "Edinburgh hosts the world’s largest arts festival, the Edinburgh Fringe.",
+        "The Royal Mile is actually slightly longer than a mile."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst31",
+        "name": "Venice",
+        "clues": [
+        "A city built on over 100 small islands with canals instead of roads",
+        "Famous for gondola rides and the Grand Canal"
+        ],
+        "funFacts": [
+        "Venice has over 400 bridges connecting its islands.",
+        "The city is gradually sinking due to rising sea levels."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst32",
+        "name": "Stockholm",
+        "clues": [
+        "Built on 14 islands connected by over 50 bridges",
+        "Home to the Nobel Prize award ceremony"
+        ],
+        "funFacts": [
+        "Stockholm’s subway is often called the 'world’s longest art gallery' due to its decorated stations.",
+        "The city has a museum dedicated to ABBA, Sweden’s famous pop group."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst33",
+        "name": "Copenhagen",
+        "clues": [
+        "Famous for its colorful Nyhavn harbor",
+        "Home to a famous statue of a mermaid"
+        ],
+        "funFacts": [
+        "Copenhagen is one of the most bike-friendly cities in the world.",
+        "The Tivoli Gardens amusement park inspired Walt Disney’s Disneyland."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst34",
+        "name": "Brussels",
+        "clues": [
+        "Home to the headquarters of the European Union",
+        "Famous for waffles, chocolate, and a statue of a little boy peeing"
+        ],
+        "funFacts": [
+        "The Atomium was originally built for the 1958 World Expo.",
+        "Brussels is home to over 800 brands of beer."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst35",
+        "name": "Helsinki",
+        "clues": [
+        "Capital of Finland, known for its saunas and design",
+        "Located on the shores of the Baltic Sea"
+        ],
+        "funFacts": [
+        "Helsinki has more than 3 million saunas—more than its total population.",
+        "The city hosts an annual wife-carrying championship."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst36",
+        "name": "Oslo",
+        "clues": [
+        "Home to the Viking Ship Museum and Nobel Peace Prize ceremony",
+        "Surrounded by fjords and forests"
+        ],
+        "funFacts": [
+        "Oslo was founded over 1,000 years ago and was originally called 'Christiania.'",
+        "The Oslo Opera House allows visitors to walk on its sloping roof."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst37",
+        "name": "Warsaw",
+        "clues": [
+        "Rebuilt almost entirely after World War II",
+        "Home to the largest castle in Poland"
+        ],
+        "funFacts": [
+        "The Old Town was reconstructed based on old paintings after being destroyed in WWII.",
+        "Marie Curie, the first woman to win a Nobel Prize, was born in Warsaw."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst38",
+        "name": "Budapest",
+        "clues": [
+        "Divided by the Danube River into two parts: Buda and Pest",
+        "Famous for its thermal baths and ruin bars"
+        ],
+        "funFacts": [
+        "The Chain Bridge was the first to permanently connect Buda and Pest.",
+        "Budapest has the largest underground cave system in Europe."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst39",
+        "name": "Zagreb",
+        "clues": [
+        "Capital of Croatia, known for its red-roofed buildings",
+        "Home to one of the quirkiest museums in the world"
+        ],
+        "funFacts": [
+        "Zagreb’s Museum of Broken Relationships is dedicated to failed love stories.",
+        "The city’s trams have been in operation since 1891."
+        ],
+        "imageLink": ""
+    },
+    {
+        "alias": "dst40",
+        "name": "Belgrade",
+        "clues": [
+          "Capital of Serbia, located at the confluence of the Danube and Sava rivers",
+          "Known for its vibrant nightlife and historic fortress"
+        ],
+        "funFacts": [
+          "Belgrade is one of the oldest cities in Europe, dating back to 279 BC.",
+          "The city has been destroyed and rebuilt more than 40 times."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst41",
+        "name": "Ljubljana",
+        "clues": [
+          "Capital of Slovenia, known for its dragon symbolism",
+          "Famous for its pedestrian-friendly Old Town and green spaces"
+        ],
+        "funFacts": [
+          "Ljubljana was awarded the title of European Green Capital in 2016.",
+          "The city's castle offers panoramic views of the entire region."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst42",
+        "name": "Bucharest",
+        "clues": [
+          "Known as 'Little Paris' due to its elegant architecture",
+          "Home to the massive Palace of the Parliament"
+        ],
+        "funFacts": [
+          "Bucharest’s Palace of the Parliament is the second-largest administrative building in the world.",
+          "The city’s Old Town is one of the liveliest entertainment districts in Europe."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst43",
+        "name": "Sofia",
+        "clues": [
+          "Capital of Bulgaria, located at the foot of Vitosha Mountain",
+          "Home to one of the oldest churches in Europe, St. George Rotunda"
+        ],
+        "funFacts": [
+          "Sofia is one of the oldest capitals in Europe, dating back over 7,000 years.",
+          "It has more than 40 mineral springs within the city."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst44",
+        "name": "Tallinn",
+        "clues": [
+          "Capital of Estonia, known for its medieval Old Town",
+          "A hub for digital innovation and tech startups"
+        ],
+        "funFacts": [
+          "Tallinn’s Old Town is a UNESCO World Heritage Site.",
+          "Estonia was the first country to allow online voting in elections."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst45",
+        "name": "Vilnius",
+        "clues": [
+          "Capital of Lithuania, famous for its Baroque architecture",
+          "Home to the self-proclaimed 'Republic of Užupis'"
+        ],
+        "funFacts": [
+          "Vilnius has one of the largest medieval Old Towns in Europe.",
+          "The city’s Užupis district has its own flag, anthem, and 'president.'"
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst46",
+        "name": "Riga",
+        "clues": [
+          "Capital of Latvia, known for its Art Nouveau buildings",
+          "Located on the shores of the Baltic Sea"
+        ],
+        "funFacts": [
+          "Riga has over 800 Art Nouveau buildings, the highest concentration in the world.",
+          "The city’s Central Market is one of Europe’s largest and is housed in old Zeppelin hangars."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst47",
+        "name": "Bratislava",
+        "clues": [
+          "Capital of Slovakia, situated along the Danube River",
+          "Known for its charming Old Town and castle overlooking the city"
+        ],
+        "funFacts": [
+          "Bratislava is the only capital in the world that borders two other countries (Austria and Hungary).",
+          "The city’s UFO Tower offers panoramic views from 95 meters high."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst48",
+        "name": "Bern",
+        "clues": [
+          "Capital of Switzerland, famous for its well-preserved medieval architecture",
+          "Home to the famous Bear Park"
+        ],
+        "funFacts": [
+          "Einstein developed his Theory of Relativity while living in Bern.",
+          "Bern’s Old Town is a UNESCO World Heritage Site."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst49",
+        "name": "Kraków",
+        "clues": [
+          "One of Poland’s most historic cities, home to Wawel Castle",
+          "Famous for its well-preserved medieval market square"
+        ],
+        "funFacts": [
+          "Kraków’s Main Market Square is the largest medieval square in Europe.",
+          "The city is known for its legendary fire-breathing dragon."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst50",
+        "name": "Lima",
+        "clues": [
+          "Capital of Peru, known for its coastal cliffs and colonial history",
+          "Home to one of the best culinary scenes in the world"
+        ],
+        "funFacts": [
+          "Lima is the only capital city in South America located on the Pacific coast.",
+          "The city is famous for its ceviche, a raw seafood dish."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst51",
+        "name": "Santiago",
+        "clues": [
+          "Capital of Chile, located at the foot of the Andes",
+          "Home to South America’s tallest skyscraper, Gran Torre Santiago"
+        ],
+        "funFacts": [
+          "Santiago’s metro system features an underground art gallery.",
+          "The city is surrounded by some of the world’s best wine regions."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst52",
+        "name": "Bogotá",
+        "clues": [
+          "Capital of Colombia, known for its high altitude",
+          "Famous for its vibrant street art and historical La Candelaria district"
+        ],
+        "funFacts": [
+          "Bogotá is one of the highest capitals in the world at 2,640 meters above sea level.",
+          "The city’s Gold Museum holds the largest collection of pre-Hispanic gold artifacts."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst53",
+        "name": "Quito",
+        "clues": [
+          "Capital of Ecuador, located high in the Andes",
+          "One of the best-preserved colonial cities in South America"
+        ],
+        "funFacts": [
+          "Quito is the closest capital city to the equator.",
+          "The city’s Old Town is a UNESCO World Heritage Site."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst54",
+        "name": "Caracas",
+        "clues": [
+          "Capital of Venezuela, located in a valley surrounded by mountains",
+          "Home to the birthplace of Simón Bolívar"
+        ],
+        "funFacts": [
+          "Caracas has the world’s longest cable car system.",
+          "The city is located just 15 km from the Caribbean coast."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst55",
+        "name": "La Paz",
+        "clues": [
+          "One of the highest capital cities in the world",
+          "Famous for its colorful street markets and cable cars"
+        ],
+        "funFacts": [
+          "La Paz is the highest capital city at 3,640 meters above sea level.",
+          "It has a unique public transport system of cable cars called 'Mi Teleférico.'"
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst56",
+        "name": "Montevideo",
+        "clues": [
+          "Capital of Uruguay, known for its coastal promenade",
+          "Famous for its laid-back lifestyle and mate tea culture"
+        ],
+        "funFacts": [
+          "Montevideo has the longest continuous sidewalk in the world, the Rambla.",
+          "It’s the southernmost capital in South America."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst57",
+        "name": "Asunción",
+        "clues": [
+          "Capital of Paraguay, located on the Paraguay River",
+          "One of the oldest cities in South America"
+        ],
+        "funFacts": [
+          "Asunción was founded in 1537, making it one of the oldest Spanish settlements.",
+          "The city is known for its colonial architecture and lively markets."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst58",
+        "name": "San José",
+        "clues": [
+          "Capital of Costa Rica, known for its volcanoes and rainforests",
+          "A gateway to eco-tourism adventures"
+        ],
+        "funFacts": [
+          "San José has no army—Costa Rica abolished its military in 1948.",
+          "The city’s National Theater was built using coffee export profits."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst59",
+        "name": "Havana",
+        "clues": [
+          "Capital of Cuba, known for its colorful colonial buildings",
+          "Famous for vintage cars and lively music"
+        ],
+        "funFacts": [
+          "Havana’s Old Town is a UNESCO World Heritage Site.",
+          "Cuba produces some of the world’s finest cigars."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst60",
+        "name": "Kingston",
+        "clues": [
+          "Capital of Jamaica, known as the birthplace of reggae",
+          "Home to the Bob Marley Museum"
+        ],
+        "funFacts": [
+          "Kingston is the largest English-speaking city in the Caribbean.",
+          "It has the seventh-largest natural harbor in the world."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst61",
+        "name": "San Juan",
+        "clues": [
+          "Capital of Puerto Rico, known for its colorful Spanish colonial buildings",
+          "Home to the historic El Morro fortress"
+        ],
+        "funFacts": [
+          "San Juan is the oldest city under U.S. jurisdiction.",
+          "It was founded in 1521 by Spanish explorers."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst62",
+        "name": "Panama City",
+        "clues": [
+          "Capital of Panama, famous for the Panama Canal",
+          "A modern skyline combined with a historic Old Town"
+        ],
+        "funFacts": [
+          "Panama City is the only capital with a rainforest within city limits.",
+          "The Panama Canal connects the Atlantic and Pacific Oceans."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst63",
+        "name": "Managua",
+        "clues": [
+          "Capital of Nicaragua, located near Lake Managua",
+          "Home to many volcanoes and seismic activity"
+        ],
+        "funFacts": [
+          "Managua was almost entirely rebuilt after a 1972 earthquake.",
+          "The city’s name means 'near the water' in Nahuatl."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst64",
+        "name": "Tegucigalpa",
+        "clues": [
+          "Capital of Honduras, surrounded by mountains",
+          "Home to colonial-era churches and plazas"
+        ],
+        "funFacts": [
+          "The city’s name is believed to mean 'silver mountain' in Nahuatl.",
+          "Tegucigalpa and its twin city Comayagüela are divided by the Choluteca River."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst65",
+        "name": "Guatemala City",
+        "clues": [
+          "Largest city in Central America",
+          "Home to ancient Mayan ruins at Kaminaljuyu"
+        ],
+        "funFacts": [
+          "Guatemala City was founded in 1776 after an earthquake destroyed Antigua.",
+          "The city sits on the site of an ancient Mayan settlement."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst66",
+        "name": "San Salvador",
+        "clues": [
+          "Capital of El Salvador, located near volcanoes",
+          "Known for its bustling markets and historic churches"
+        ],
+        "funFacts": [
+          "San Salvador has experienced multiple earthquakes throughout history.",
+          "The city’s Metropolitan Cathedral houses the tomb of Archbishop Óscar Romero."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst67",
+        "name": "Port-au-Prince",
+        "clues": [
+          "Capital of Haiti, located on the Gulf of Gonâve",
+          "Known for its vibrant art scene and historic landmarks"
+        ],
+        "funFacts": [
+          "Port-au-Prince was named after a French ship called 'Le Prince.'",
+          "The Iron Market is a symbol of the city's resilience."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst68",
+        "name": "Accra",
+        "clues": [
+          "Capital of Ghana, located along the Atlantic coast",
+          "Home to historic forts and lively markets"
+        ],
+        "funFacts": [
+          "Accra was originally built around three European trading forts.",
+          "It is known for its fabric markets and kente cloth production."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst69",
+        "name": "Dakar",
+        "clues": [
+          "Capital of Senegal, located on the Cape Verde Peninsula",
+          "Known for its rich musical heritage and vibrant culture"
+        ],
+        "funFacts": [
+          "Dakar is the westernmost capital in mainland Africa.",
+          "The city is famous for the annual Dakar Rally race."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst70",
+        "name": "Lagos",
+        "clues": [
+          "Largest city in Nigeria and one of the fastest-growing cities in the world",
+          "Known for its bustling markets and nightlife"
+        ],
+        "funFacts": [
+          "Lagos was the capital of Nigeria until 1991.",
+          "The city has Africa’s largest economy and busiest ports."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst71",
+        "name": "Nairobi",
+        "clues": [
+          "Capital of Kenya, known as the 'Green City in the Sun'",
+          "Home to a national park where you can see wildlife against a city skyline"
+        ],
+        "funFacts": [
+          "Nairobi is the only capital city with a national park within city limits.",
+          "It is a major hub for African wildlife conservation efforts."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst72",
+        "name": "Addis Ababa",
+        "clues": [
+          "Capital of Ethiopia and the diplomatic hub of Africa",
+          "Home to the headquarters of the African Union"
+        ],
+        "funFacts": [
+          "Addis Ababa means 'New Flower' in Amharic.",
+          "The city sits at 2,355 meters above sea level, making it one of the highest capitals in the world."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst73",
+        "name": "Kigali",
+        "clues": [
+          "Capital of Rwanda, known for its cleanliness and safety",
+          "Home to the Kigali Genocide Memorial"
+        ],
+        "funFacts": [
+          "Kigali has been ranked as one of the cleanest cities in Africa.",
+          "It is often called the 'Singapore of Africa' due to its rapid development."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst74",
+        "name": "Victoria Falls",
+        "clues": [
+          "One of the largest waterfalls in the world, located between Zimbabwe and Zambia",
+          "Known locally as 'Mosi-oa-Tunya' meaning 'The Smoke That Thunders'"
+        ],
+        "funFacts": [
+          "Victoria Falls is over twice the height of Niagara Falls.",
+          "The waterfall creates a permanent rainbow due to its mist."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst75",
+        "name": "Algiers",
+        "clues": [
+          "Capital of Algeria, known for its whitewashed buildings",
+          "A mix of French colonial and Moorish architecture"
+        ],
+        "funFacts": [
+          "Algiers is sometimes called 'Algiers the White' due to its bright buildings.",
+          "It has one of the largest Kasbahs in North Africa, a UNESCO World Heritage Site."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst76",
+        "name": "Tunis",
+        "clues": [
+          "Capital of Tunisia, located on the Mediterranean coast",
+          "Home to the ancient ruins of Carthage"
+        ],
+        "funFacts": [
+          "Tunis' Medina is a UNESCO World Heritage Site.",
+          "The city was once a major hub of the Carthaginian Empire."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst77",
+        "name": "Muscat",
+        "clues": [
+          "Capital of Oman, known for its stunning coastline",
+          "A blend of traditional Arab culture and modernity"
+        ],
+        "funFacts": [
+          "Muscat’s Grand Mosque can accommodate over 20,000 worshippers.",
+          "The city’s name means 'safe anchorage' in Arabic."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst78",
+        "name": "Riyadh",
+        "clues": [
+          "Capital of Saudi Arabia, located in the desert",
+          "Home to modern skyscrapers like the Kingdom Centre"
+        ],
+        "funFacts": [
+          "Riyadh means 'gardens' in Arabic.",
+          "It is one of the hottest cities in the world, with summer temperatures often exceeding 45°C."
+        ],
+        "imageLink": ""
+      },
+      {
+        "alias": "dst79",
+        "name": "Amman",
+        "clues": [
+          "Capital of Jordan, known for its ancient ruins",
+          "A gateway to the famous city of Petra"
+        ],
+        "funFacts": [
+          "Amman was originally called 'Philadelphia' in ancient times.",
+          "The city is built on seven hills."
+        ],
+        "imageLink": ""
+      },
+    {
+      "alias": "dst80",
+      "name": "Beirut",
+      "clues": [
+        "Capital of Lebanon, known as the 'Paris of the Middle East'",
+        "Famous for its vibrant nightlife and historic sites"
+      ],
+      "funFacts": [
+        "Beirut is one of the oldest continuously inhabited cities in the world.",
+        "The city was destroyed and rebuilt seven times due to earthquakes and wars."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst81",
+      "name": "Doha",
+      "clues": [
+        "Capital of Qatar, known for its futuristic skyline",
+        "Home to the Museum of Islamic Art and The Pearl-Qatar"
+      ],
+      "funFacts": [
+        "Doha hosted the 2022 FIFA World Cup.",
+        "The city has some of the highest per capita incomes in the world."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst82",
+      "name": "Jerusalem",
+      "clues": [
+        "A city sacred to Judaism, Christianity, and Islam",
+        "Home to the Western Wall, Dome of the Rock, and Church of the Holy Sepulchre"
+      ],
+      "funFacts": [
+        "Jerusalem is one of the oldest cities in the world, dating back over 3,000 years.",
+        "It has over 60 different religious and historical sites."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst83",
+      "name": "Kathmandu",
+      "clues": [
+        "Capital of Nepal, located in a valley surrounded by mountains",
+        "Gateway to Mount Everest and the Himalayas"
+      ],
+      "funFacts": [
+        "Kathmandu is home to seven UNESCO World Heritage Sites.",
+        "The city's Durbar Square features stunning ancient palaces and temples."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst84",
+      "name": "Malé",
+      "clues": [
+        "Capital of the Maldives, known for its colorful buildings",
+        "One of the world's most densely populated cities"
+      ],
+      "funFacts": [
+        "Malé is only 1.3 square kilometers in size.",
+        "The Maldives is the lowest-lying country in the world, with an average ground level of just 1.5 meters above sea level."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst85",
+      "name": "Baku",
+      "clues": [
+        "Capital of Azerbaijan, located on the Caspian Sea",
+        "A mix of medieval, Soviet, and modern architecture"
+      ],
+      "funFacts": [
+        "Baku is the lowest-lying national capital in the world at 28 meters below sea level.",
+        "It is known for the Flame Towers, which light up the city's skyline."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst86",
+      "name": "Tbilisi",
+      "clues": [
+        "Capital of Georgia, famous for its hot springs",
+        "A city with diverse architecture, from medieval to modern"
+      ],
+      "funFacts": [
+        "Tbilisi's name means 'warm place' due to its sulfur baths.",
+        "The city was founded in the 5th century by King Vakhtang I Gorgasali."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst87",
+      "name": "Yerevan",
+      "clues": [
+        "Capital of Armenia, one of the oldest cities in the world",
+        "Home to Republic Square and Mount Ararat views"
+      ],
+      "funFacts": [
+        "Yerevan is older than Rome, dating back to 782 BC.",
+        "Known as the 'Pink City' due to its buildings made from volcanic tuff stone."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst88",
+      "name": "Tashkent",
+      "clues": [
+        "Capital of Uzbekistan, known for its Soviet-era architecture",
+        "A key stop on the ancient Silk Road"
+      ],
+      "funFacts": [
+        "Tashkent means 'Stone City' in Turkic languages.",
+        "It is the most populous city in Central Asia."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst89",
+      "name": "Ashgabat",
+      "clues": [
+        "Capital of Turkmenistan, known for its white marble buildings",
+        "One of the least-visited capitals in the world"
+      ],
+      "funFacts": [
+        "Ashgabat holds the Guinness World Record for the highest concentration of white marble buildings.",
+        "It was almost completely destroyed by an earthquake in 1948."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst90",
+      "name": "Ulaanbaatar",
+      "clues": [
+        "Capital of Mongolia, the world's coldest capital",
+        "A mix of modern city life and nomadic traditions"
+      ],
+      "funFacts": [
+        "Ulaanbaatar means 'Red Hero' in Mongolian.",
+        "Over 40% of Mongolia's population lives in the city."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst91",
+      "name": "Colombo",
+      "clues": [
+        "Largest city in Sri Lanka, located on the Indian Ocean",
+        "A vibrant mix of colonial history and modern skyscrapers"
+      ],
+      "funFacts": [
+        "Colombo was once ruled by the Portuguese, Dutch, and British.",
+        "It is famous for its tea exports and coastal beauty."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst92",
+      "name": "Hanoi",
+      "clues": [
+        "Capital of Vietnam, known for its centuries-old architecture",
+        "Home to Hoan Kiem Lake and the Old Quarter"
+      ],
+      "funFacts": [
+        "Hanoi has been the capital of Vietnam for over 1,000 years.",
+        "It is famous for its street food, including pho and egg coffee."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst93",
+      "name": "Jakarta",
+      "clues": [
+        "Capital of Indonesia, one of the most densely populated cities",
+        "A melting pot of cultures, cuisines, and languages"
+      ],
+      "funFacts": [
+        "Jakarta is sinking at an alarming rate due to groundwater extraction.",
+        "The city is known for its traffic congestion and street food scene."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst94",
+      "name": "Manila",
+      "clues": [
+        "Capital of the Philippines, known for its historic Intramuros district",
+        "One of the most densely populated cities in the world"
+      ],
+      "funFacts": [
+        "Manila is named after the 'nilad' plant, which grew along the riverbanks.",
+        "It was once called the 'Pearl of the Orient' during Spanish rule."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst95",
+      "name": "Dhaka",
+      "clues": [
+        "Capital of Bangladesh, known for its bustling streets",
+        "One of the world's most densely populated cities"
+      ],
+      "funFacts": [
+        "Dhaka is called the 'Rickshaw Capital of the World' with over 1 million rickshaws.",
+        "The city has a rich history dating back to the Mughal era."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst96",
+      "name": "Islamabad",
+      "clues": [
+        "Capital of Pakistan, known for its greenery and modern design",
+        "Home to Faisal Mosque, one of the largest mosques in the world"
+      ],
+      "funFacts": [
+        "Islamabad was designed by a Greek architect in the 1960s.",
+        "It is one of the safest and most organized cities in Pakistan."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst97",
+      "name": "Mumbai",
+      "clues": [
+        "India's financial capital, home to Bollywood",
+        "Known for the Gateway of India and Marine Drive"
+      ],
+      "funFacts": [
+        "Mumbai is built on seven islands that were merged by the British.",
+        "Dabbawalas deliver over 200,000 lunchboxes daily with incredible accuracy."
+      ],
+      "imageLink": ""
+    },
+    {
+      "alias": "dst98",
+      "name": "Auckland",
+      "clues": [
+        "Largest city in New Zealand, known as the 'City of Sails'",
+        "Built on over 50 dormant volcanoes"
+      ],
+      "funFacts": [
+        "Auckland has the highest boat ownership per capita in the world.",
+        "It is home to the tallest freestanding structure in the Southern Hemisphere, the Sky Tower."
+      ],
+      "imageLink": ""
+    },
+    {
+    "alias": "dst99",
+    "name": "Fiji",
+    "clues": [
+        "An island nation in the South Pacific known for its crystal-clear waters",
+        "Famous for its coral reefs and friendly locals"
+    ],
+    "funFacts": [
+        "Fiji consists of over 300 islands, but only about 110 are inhabited.",
+        "The national drink, kava, is made from the root of a pepper plant and has a calming effect."
+    ],
+    "imageLink": ""
+    },
+    {
+    "alias": "dst100",
+    "name": "Zanzibar",
+    "clues": [
+        "An archipelago off the coast of Tanzania, known for its spice trade",
+        "Home to Stone Town, a UNESCO World Heritage Site"
+    ],
+    "funFacts": [
+        "Zanzibar is nicknamed the 'Spice Island' due to its production of cloves, nutmeg, and cinnamon.",
+        "Freddie Mercury, the lead singer of Queen, was born in Zanzibar."
+    ],
+    "imageLink": ""
+    }
+]
+  
