@@ -13,9 +13,7 @@ __pycache__/
 .env
 
 # Logs and database
-instance/
 *.log
-*.sqlite3
 
 # IDE & OS-specific files
 .vscode/
