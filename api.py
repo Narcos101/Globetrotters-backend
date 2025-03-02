@@ -18,7 +18,7 @@ CORS(app)
 TOKEN_ETIME = 6 * 60
 
 
-app.config["SQLALCHEMY_DATABASE_URI"] = "mysql+mysqlconnector://narcos101:Quebec9797@narcos101.mysql.pythonanywhere-services.com/narcos101$game_db"
+app.config["SQLALCHEMY_DATABASE_URI"] = "mysql+mysqlconnector://root:root@localhost/game_db"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 app.config["JWT_SECRET_KEY"] = "3ed0b782b00d803b16b17bdcb312a943ba7a4d5d5a896751fc933321c2e0ce31"
 app.config["JWT_ACCESS_TOKEN_EXPIRES"] = timedelta(minutes=TOKEN_ETIME)
