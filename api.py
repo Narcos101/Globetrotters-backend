@@ -218,11 +218,13 @@ def get_user_details():
         return jsonify({"error": "User not found"}), 404
 
     sessions = GameSession.query.filter_by(user_id=user_id).all()
-    total_correct_cnt = sum([session.correct_questions for session in sessions])
-
     user_data['username'] = user.username
-    user_data['total_games_played'] = len(sessions)
-    user_data['total_correct_questions'] = total_correct_cnt
+
+    if sessions:
+        total_correct_cnt = sum([session.correct_questions for session in sessions])
+
+        user_data['total_games_played'] = len(sessions)
+        user_data['total_correct_questions'] = total_correct_cnt
 
     return jsonify(user_data), 200
 
