@@ -38,12 +38,13 @@ class GameSession(db.Model):
     rounds_data = db.Column(JSON, nullable=False, default={})
     start_time = db.Column(db.DateTime, default=datetime.now())
     end_time = db.Column(db.DateTime, nullable=True)
+    correct_questions = db.Column(db.Integer, nullable=False, default=0)
+    incorrect_questions = db.Column(db.Integer, nullable=False,default=0)
 
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     username = db.Column(db.String(50), unique=True, nullable=False)
     password = db.Column(db.String(255), nullable=False)
-    score = db.Column(db.Integer, default=0)
 
 with app.app_context():
     db.create_all()
@@ -145,7 +146,8 @@ def get_round():
     options.extend(random_options)
     random.shuffle(options)
 
-    new_round = {"isCorrect": False,"selectedOption": -1,"correctOption": random_country['name']}
+    new_round = {"isCorrect": False,"selectedOption": -1,"correctOption": random_country['name'],
+                "additional_details": random_country['funFacts']}
 
     rounds_data[random_country_idx] = new_round
     session.rounds_data = rounds_data
@@ -176,44 +178,54 @@ def set_round():
         return jsonify({"error": "Invalid uuid"}), 400
 
     is_correct = False
+
     # Determine if the selected option is correct
     if selected_option == rounds_data[uuid]["correctOption"]:
         is_correct = True
+        session.correct_questions = int(session.correct_questions) + 1
+    else:
+        session.incorrect_questions = int(session.incorrect_questions) + 1
 
     # Update round data
     rounds_data[uuid]["selectedOption"] = selected_option
     rounds_data[uuid]["isCorrect"] = is_correct
 
     session.rounds_data = rounds_data
+
+    session.rounds_data = rounds_data
+
     flag_modified(session, "rounds_data")
     db.session.commit()
 
     return jsonify({
         "message": "Round updated successfully",
         "updated_round": rounds_data[uuid],
-        "isCorrect": is_correct  # Include isCorrect in response
+        "isCorrect": is_correct,  # Include isCorrect in response
+        "additional_details": rounds_data[uuid]['additional_details'],
+        "correct_questions" : session.correct_questions,
+        "incorrect_questions" : session.incorrect_questions
     })
 
-
-@app.route('/api/check', methods=["POST"])
+@app.route('/api/get_user_info', methods=["GET"])
 @jwt_required()
-def check_answer():
-    if error:
-        return {"error": error},500
-    
-    data = request.json
-    user_answer = data["answer"]
+def get_user_details():
 
-    index = data["uuid"]
-    answer = countries[index]
-    answer_destination = answer['name']
-    # print(selected_answer_index)
-    if user_answer == answer_destination:
-        score = update_score()
-        return {'score':score,'message': 'Correct!'}, 200
-    else:
-        return {'message': 'Incorrect'}, 400
-    
+    user_data = {}
+    user_id = get_jwt_identity()
+    user = User.query.filter_by(id=user_id).first()
+
+    if not user:
+        return jsonify({"error": "User not found"}), 404
+
+    sessions = GameSession.query.filter_by(user_id=user_id).all()
+    total_correct_cnt = sum([session.correct_questions for session in sessions])
+
+    user_data['username'] = user.username
+    user_data['total_games_played'] = len(sessions)
+    user_data['total_correct_questions'] = total_correct_cnt
+
+    return jsonify(user_data), 200
+
 # @app.route('/invite/<int:user_id>', methods=['GET'])
 # def generate_invite(user_id):
 #     cursor.execute("SELECT username, score FROM users WHERE id=%s", (user_id,))
