@@ -1,11 +1,8 @@
 from flask import Flask, request, jsonify
 from flask_jwt_extended import create_access_token, jwt_required, get_jwt_identity, JWTManager
-from io import BytesIO
 from flask_bcrypt import Bcrypt
-from PIL import Image, ImageDraw, ImageFont
 from datetime import timedelta, datetime
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy.orm.attributes import flag_modified
 from flask_cors import CORS
 
 import uuid
