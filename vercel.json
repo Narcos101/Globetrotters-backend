@@ -4,7 +4,11 @@
       {"src": "api.py", "use": "@vercel/python"}
     ],
     "routes": [
-      {"src": "/(.*)", "dest": "api.py"}
+      {"src": "/(.*)", "dest": "api.py",
+    "methods": ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
+      "headers": {
+        "Access-Control-Allow-Origin": "*"
+      }}
     ]
   }
   
