@@ -78,24 +78,14 @@ This project is a React + Flask web application that offers an engaging and fun 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/destination-trivia-game.git
-cd destination-trivia-game
+git clone https://github.com/Narcos101/Globetrotters-backend.git
 ```
 
 2. **Backend Setup:**
 
 ```bash
-cd backend
 pip install -r requirements.txt
 flask run
-```
-
-3. **Frontend Setup:**
-
-```bash
-cd frontend
-npm install
-npm start
 ```
 
 ### Running the Application
